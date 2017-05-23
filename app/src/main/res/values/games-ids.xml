@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id">971456522233</string>
+    <string name="package_name">com.hyeongpil.overscouter</string>
+    <string name="achievement_bronze">CgkI-c_I-qIcEAIQAA</string>
+    <string name="achievement_silver">CgkI-c_I-qIcEAIQAQ</string>
+    <string name="achievement_gold">CgkI-c_I-qIcEAIQAw</string>
+    <string name="achievement_platinum">CgkI-c_I-qIcEAIQBA</string>
+    <string name="achievement_diamond">CgkI-c_I-qIcEAIQBQ</string>
+    <string name="achievement_master">CgkI-c_I-qIcEAIQBg</string>
+    <string name="achievement_grandmaster">CgkI-c_I-qIcEAIQBw</string>
+    <string name="achievement_tracer">CgkI-c_I-qIcEAIQCA</string>
+    <string name="achievement_sombra">CgkI-c_I-qIcEAIQCQ</string>
+    <string name="achievement_challenger">CgkI-c_I-qIcEAIQCg</string>
+</resources>

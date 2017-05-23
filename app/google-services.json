@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "971456522233",
+    "firebase_url": "https://overscouter.firebaseio.com",
+    "project_id": "overscouter",
+    "storage_bucket": "overscouter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971456522233:android:53dac1b16575eb47",
+        "android_client_info": {
+          "package_name": "com.hyeongpil.overscouter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971456522233-kpahced4g0a4d89lns24m5e072mlnub1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvIFrNa0lOWxuj2ChUvVRAFhFr7J2FJN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971456522233-kpahced4g0a4d89lns24m5e072mlnub1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

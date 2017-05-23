@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">오버워치 측정기</string>
+    <string name="question_count">/13</string>
+    <string name="kakao_api_key">b73926d1260ad5cf3289dd32070294ac</string>
+    <string name="kakao_scheme">kakaob73926d1260ad5cf3289dd32070294ac</string>
+    <string name="kakaolink_host">kakaolink</string>
+    <string name="reword_ad_unit_id"> ca-app-pub-6988156088152777/1490802040</string>
+    <string name="add_mop_id">ca-app-pub-6988156088152777~5004501643</string>
+    <string name="google_play_app_id">971456522233</string>
+    <string name="facebook_id">442690036099742_442690846099661</string>
+    <string name="facebook_nativeid">442690036099742_442947876073958</string>
+
+    <string name="sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="license_failed">License check failed.</string>
+    <string name="unknown_error">Unknown error.</string>
+</resources>
+

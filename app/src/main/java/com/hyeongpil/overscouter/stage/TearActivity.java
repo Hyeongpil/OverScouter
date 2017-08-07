@@ -217,6 +217,13 @@ public class TearActivity extends BaseGameActivity{
         }else {Toast.makeText(this, "구글 게임 연동이 실패하였습니다 다시 로그인 해 주세요", Toast.LENGTH_SHORT).show();}
     }
 
+    @OnClick(R.id.tv_tear_lol)
+    void lolClick(){
+        Intent intent = new Intent(Intent.ACTION_VIEW);
+        intent.setData(Uri.parse("market://details?id=com.hyeongpil.lolscouter"));
+        startActivity(intent);
+    }
+
     @Override
     public void onBackPressed() {
         TedBackPressDialog.startFacebookDialog(this, getString(R.string.app_name), getString(R.string.facebook_nativeid), new OnBackPressListener() {

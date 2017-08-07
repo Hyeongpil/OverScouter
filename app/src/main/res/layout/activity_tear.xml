@@ -87,13 +87,14 @@
             android:textSize="20dp"/>
 
         <TextView
+            android:id="@+id/tv_tear_lol"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_above="@+id/ll_tear_kakao_container"
             android:layout_marginBottom="30dp"
-            android:textSize="16dp"
-            android:text="falinrush@daum.net 으로 문제를 출제 해주세요!\n배틀태그도 같이 올려드립니다."/>
+            android:textSize="20dp"
+            android:text="롤 실력측정기도 도전해보세요!(클릭)"/>
 
         <LinearLayout
             android:id="@+id/ll_tear_kakao_container"
